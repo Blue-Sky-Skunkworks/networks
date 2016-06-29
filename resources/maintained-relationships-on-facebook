@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Maintained Relationships on Facebook &#8211; overstated</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://overstated.net/wp/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://overstated.net/wp/wp-content/themes/mog/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="overstated &raquo; Feed" href="http://overstated.net/feed" />
+<link rel="alternate" type="application/rss+xml" title="overstated &raquo; Comments Feed" href="http://overstated.net/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="overstated &raquo; Maintained Relationships on Facebook Comments Feed" href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/overstated.net\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='opensans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans&#038;ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='josefinslab-css'  href='http://fonts.googleapis.com/css?family=Josefin+Slab%3A600&#038;ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://overstated.net/wp/wp-content/themes/mog/style.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mog-main-css'  href='http://overstated.net/wp/wp-content/themes/mog/mog-main.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://overstated.net/wp/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://overstated.net/wp/wp-content/plugins/jetpack/css/jetpack.css?ver=4.0.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://overstated.net/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://overstated.net/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://overstated.net/wp/wp-content/plugins/jetpack/modules/related-posts/related-posts.js?ver=20150408'></script>
+<link rel='https://api.w.org/' href='http://overstated.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://overstated.net/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://overstated.net/wp/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Reality Check, Please' href='http://overstated.net/2009/02/28/reality-check-please' />
+<link rel='next' title='Cyborgs and offliners' href='http://overstated.net/2009/07/29/cyborgs-and-offliners' />
+<meta name="generator" content="WordPress 4.5.3" />
+<link rel="canonical" href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook" />
+<link rel='shortlink' href='http://wp.me/p3D2j4-aE' />
+<link rel="alternate" type="application/json+oembed" href="http://overstated.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Foverstated.net%2F2009%2F03%2F09%2Fmaintained-relationships-on-facebook" />
+<link rel="alternate" type="text/xml+oembed" href="http://overstated.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Foverstated.net%2F2009%2F03%2F09%2Fmaintained-relationships-on-facebook&#038;format=xml" />
+		<style type="text/css">
+						ol.footnotes li {list-style-type:decimal;}
+						ol.footnotes{font-size:0.8em; color:#666666;}		</style>
+		
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+<link rel='dns-prefetch' href='//widgets.wp.com'>
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+</head>
+
+<body class="single single-post postid-660 single-format-standard">
+
+<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header" role="banner">
+		<hgroup>
+			<h1 class="site-title">
+				<a href="http://overstated.net/" title="overstated" rel="home">
+										<div class="header-title">overstated</div>
+				</a>
+			</h1>
+			<h2 class="site-description">a weblog by cameron marlow</h2>
+		</hgroup>
+
+		<nav role="navigation" class="site-navigation main-navigation">
+			<h1 class="assistive-text">Menu</h1>
+			<div class="assistive-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+			<div class="menu"><ul id="menu-links" class=""><li id="menu-item-881" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-881"><a href="http://cameronmarlow.com">me</a></li>
+<li id="menu-item-882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-882"><a href="http://facebook.com/cameron">facebook</a></li>
+<li id="menu-item-883" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-883"><a href="https://linkedin.com/in/cameronfactor">linkedin</a></li>
+</ul></div>		</nav><!-- .site-navigation .main-navigation -->
+	</header><!-- #masthead .site-header -->
+
+	<div id="main" class="site-main">
+
+		<div id="primary" class="content-area">
+			<div id="content" class="site-content" role="main">
+
+			
+					<nav role="navigation" id="nav-above" class="site-navigation post-navigation">
+		<h1 class="assistive-text">Post navigation</h1>
+
+	
+		<div class="nav-previous"><a href="http://overstated.net/2009/02/28/reality-check-please" rel="prev"><span class="meta-nav">&larr;</span> Reality Check, Please</a></div>		<div class="nav-next"><a href="http://overstated.net/2009/07/29/cyborgs-and-offliners" rel="next">Cyborgs and offliners <span class="meta-nav">&rarr;</span></a></div>
+	
+	</nav><!-- #nav-above -->
+	
+				
+<article id="post-660" class="post-660 post type-post status-publish format-standard hentry category-research tag-facebook tag-social-networks">
+	<header class="entry-header">
+		<h1 class="entry-title">Maintained Relationships on Facebook</h1>
+
+		<div class="entry-meta">
+			<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook" title="10:53 am" rel="bookmark"><time class="entry-date" datetime="2009-03-09T10:53:11+00:00">March 9, 2009</time></a><span class="byline"> by <span class="author vcard"><a class="url fn n" href="http://overstated.net" title="View all posts by cameron" rel="author">cameron</a></span></span>		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>This past week the Economist published a piece entitled <a href="http://www.economist.com/science/displaystory.cfm?story_id=13176775"><em>Primates On Facebook</em></a> that described some research done by the Facebook Data Team. Since there have been a number of questions throughout the <a href="http://www.cracked.com/article_14990_what-monkeysphere.html">monkeysphere</a>, we thought we would take the opportunity to describe our approach, the data, and our analysis.</p>
+<p><img src="http://i2.wp.com/overstated.net/wp/uploads/2009/03/network-comparison.png?resize=405%2C510" alt="network-comparison" title="network-comparison" class="aligncenter size-full wp-image-671" data-recalc-dims="1" /></p>
+<p>We were asked a simple question: is Facebook increasing the size of people&#8217;s personal networks? This is a particularly difficult question to answer, so as a first attempt we looked into the types of relationships people do maintain, and the relative size of these groups. The image above presents a high-level overview of our findings: while the average Facebook user communicates with a small subset of their entire friend network, they maintain relationships with a group two times the size of this core. This not only affects each user, but also has systemic effects that may explain why things spread so quickly on Facebook.</p>
+<p>Before discussing the data, let us first set the context.</p>
+<h3>People you know</h3>
+<p>Many people are asking questions about the number of friends they have on Facebook. Do I have enough? Do I have too many? What may be tripping people up here is the language: while the people youâ€™re connected to on Facebook are called your â€œfriends,â€ theyâ€™re more likely people you have met at some point in your life. Social network researchers have been trying to measure this number for decades, and come across a number of clever techniques.</p>
+<p>If youâ€™ve read the Tipping Point, you may remember a study Gladwell described where people were asked to identify whether or not they knew people with names from a long list culled from a phone book. Based on the probability of knowing someone with a given name and the number of people with this name that a person knows, we can estimate the number of people a given subject has met. Killworth, et al. found using this technique and others that the number of people a person will know in their lifetime ranges somewhere between 300 and 3000<sup>[<a href="#footnote_0_660" id="identifier_0_660" class="footnote-link footnote-identifier-link" title="Killworth, P., Johnsen, E., Russell, H. B., Shelley, G. A., and McCarty, C. Estimating the size of personal networks. Social Networks 12 (1990), 289&acirc;&euro;&ldquo;312.">1</a>]</sup>.</p>
+<p>On Facebook, the average number of friends that a person has is currently 120<sup>[<a href="#footnote_1_660" id="identifier_1_660" class="footnote-link footnote-identifier-link" title="Facebook Statistics">2</a>]</sup>. Given that Facebook has only been around for 5 years, that not everyone uses it, and that the not every acquaintance has found each other, this number seems reasonable for an average user.</p>
+<h3>Communication network</h3>
+<p>As a subset of the people you know, there are some individuals with whom you communicate on an ongoing basis. The number of individuals that represent a person&#8217;s core support network has been found to be much, much smaller than their entire network. Peter Marsden found the number of people with whom individuals &#8220;can discuss important matters&#8221; numbers only 3 for Americans<sup>[<a href="#footnote_2_660" id="identifier_2_660" class="footnote-link footnote-identifier-link" title="Marsden, P. Core discussion networks of americans. American Sociological Review 52, 1 (1987), 122&acirc;&euro;&ldquo;131.">3</a>]</sup>. In a subsequent survey, researchers found that this number has dropped slightly over the past 10 years<sup>[<a href="#footnote_3_660" id="identifier_3_660" class="footnote-link footnote-identifier-link" title="Mcpherson, Miller, Smith-Lovin, Lynn, Brashears, and Matthew, E. Social isolation in america: Changes in core discussion networks over two decades. American Sociological Review 71, 3 (June 2006), 353&acirc;&euro;&ldquo;375.">4</a>]</sup>, causing some alarm in the press, but without sufficient explanation<sup>[<a href="#footnote_4_660" id="identifier_4_660" class="footnote-link footnote-identifier-link" title="While this work is well cited, there is support that the methodology underestimates the core network, e.g. Bearman, P., and Parigi, P. Cloning Headless Frogs and Other Important Matters: Conversation Topics and Network Structure. Social Forces 83 (2004), 535.">5</a>]</sup>.</p>
+<p>How many people an individual communicates with probably exists somewhere between their total network size and their support network. Some research by Gueorgi Kossinets and Duncan Watts observing all email communication at a university shows that the number of ongoing contacts hovers somewhere between 10 and 20 over a 30 day period<sup>[<a href="#footnote_5_660" id="identifier_5_660" class="footnote-link footnote-identifier-link" title="Kossinets, G., and Watts, D. J. Empirical analysis of an evolving social network. Science 311, 5757 (January 2006), 88&acirc;&euro;&ldquo;90.">6</a>]</sup>.</p>
+<h3>Maintained Relationships</h3>
+<p>Facebook and other social media allow for a type of communication that is somewhat less taxing than direct communication. Technologies like News Feed and RSS readers allow people to consume content from their friends and stay in touch with the content that is being shared. This consumption is still a form of relationship management as it feeds back into other forms of communication in the future. For instance, a high school friend uploads a photo of her new puppy and this photo appears in your News Feed. You click on the photo, browse through a host of other photos and discover that she has also gotten engaged, which may lead you to reach out to her.</p>
+<p>This type of communication is the core of the Facebook experience, and given the question posed by the Economist, we wondered what effect this sort of relationship maintenance had on the breadth of people&#8217;s networks.</p>
+<h3>Measuring Networks on Facebook</h3>
+<p>To try and answer questions about network size on Facebook, we looked at the communications of a random sample of users over the course of 30 days. We defined networks in 4 different ways:</p>
+<ul>
+<li><strong>All Friends:</strong> the largest representation of a person&#8217;s network is the set of all people they have verified as friends.</li>
+<li><strong>Reciprocal Communication:</strong> as a measure of a sort of core network, we counted the number of people with whom a person had had reciprocal communications, or an active exchange of information between two parties.</li>
+<li><strong>One-way Communication:</strong> the total set of people with whom a person has communicated.</li>
+<li><strong>Maintained Relationships:</strong> to measure engagement, we took the set of people for whom a user had clicked on a News Feed story or visited their profile more than twice.</li>
+</ul>
+<p>For each users we calculated the size of their reciprocal network, one-way network and network of maintained relationships, and plotted this as a function of the number of friends a user has. As Andreas mentions in his <a href="http://andreaskluth.org/2009/02/27/primates-on-facebook/">blog post about the article</a>, the visualization (shown below) did not make it into the article, but presents a pretty clear picture of the relationship between these types of communication.</p>
+<p style="text-align: center"><img src="http://i0.wp.com/overstated.net/wp/uploads/2009/03/active-network-size1.png?resize=402%2C390" alt="active-network-size" title="active-network-size" class="aligncenter size-full wp-image-665" data-recalc-dims="1" /></p>
+<p>In the diagram, the red line shows the number of reciprocal relationships, the green line shows the one-way relationships, and the blue line shows the passive relationships as a function of your network size. This graph shows the same data as the first graph, only combined for both genders. What it shows is that, as a function of the people a Facebook user actively communicate with, you are passively engaging with between 2 and 2.5 times more people in their network. I&#8217;m sure many people have had this feeling, but these data make this effect more transparent.</p>
+<h3>Systemic Effects</h3>
+<p>What effect does a 2x increase in connectivity mean for a network? The easiest way to observe this is to look at one person&#8217;s personal network. The image below shows the personal network for one of my coworkers. The first diagram shows his entire network, namely all of his friends, and all of the relationships between his friends. It is clear that the cluster on the top is the highly connected set of Facebook coworkers, and the cluster on the right is another group of friends.</p>
+<p><a href="http://overstated.net/wp/uploads/2009/03/asmith-connections.pdf"><img src="http://i2.wp.com/overstated.net/wp/uploads/2009/03/asmith-connections.png?resize=405%2C460" alt="asmith-connections" title="asmith-connections" class="aligncenter size-full wp-image-669" data-recalc-dims="1" /></a></p>
+<p>The cell on the bottom right shows only those relationships that have reciprocal communication. Many of the individuals in his network are completely disconnected or out of touch with each other. Moving to the bottom left cell, we see the slightly more connected network containing one-way communication. This includes every person who wrote a comment, sent a message or wrote a wall post to one of my coworker&#8217;s other friends. The cell on the top-right shows the passive network, including all those people who were keeping up with their friends. While some of his friends are still disconnected, a very large percentage are now reachable through some set of observations.</p>
+<p>The stark contrast between reciprocal and passive networks shows the effect of technologies such as News Feed. If these people were required to talk on the phone to each other, we might see something like the reciprocal network, where everyone is connected to a small number of individuals. Moving to an environment where everyone is passively engaged with each other, some event, such as a new baby or engagement can propagate very quickly through this highly connected network.</p>
+<p>While these data are not a controlled experiment, and do not directly relate to the theories described above, they do show a directional trend in the way people manage relationships on a social network today. We hope to continue this line of research with the eventual hope of making relationships that much easier to manage.</p>
+<p>This post represents the work of data scientists <a href="http://www.leebyron.com/">Lee Byron</a>, <a href="http://www.connectedaction.net/">Tom Lento</a>, <a href="http://overstated.net/">Cameron Marlow</a>, <a href="http://www.facebook.com/people/Itamar-Rosenn/206729">Itamar Rosenn</a>. Special thanks to Alex Smith for letting us use him as an example. For more insights like this, make sure to become a fan of the <a href="http://www.facebook.com/data">Facebook Data Team</a>.</p>
+<h3>Footnotes</h3><ol class="footnotes"><li id="footnote_0_660" class="footnote">Killworth, P., Johnsen, E., Russell, H. B., Shelley, G. A., and McCarty, C. <a href="http://scholar.google.com/scholar?cluster=12210320742537925278">Estimating the size of personal networks</a>. Social Networks 12 (1990), 289â€“312. [<a href="#identifier_0_660" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_1_660" class="footnote"><a href="http://www.facebook.com/press/info.php?statistics">Facebook Statistics</a> [<a href="#identifier_1_660" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_2_660" class="footnote">Marsden, P. <a href="http://scholar.google.com/scholar?cluster=901158516678101275">Core discussion networks of americans</a>. American Sociological Review 52, 1 (1987), 122â€“131. [<a href="#identifier_2_660" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_3_660" class="footnote">Mcpherson, Miller, Smith-Lovin, Lynn, Brashears, and Matthew, E. <a href="http://scholar.google.com/scholar?cluster=1551998830709311915">Social isolation in america: Changes in core discussion networks over two decades</a>. American Sociological Review 71, 3 (June 2006), 353â€“375. [<a href="#identifier_3_660" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_4_660" class="footnote">While this work is well cited, there is support that the methodology underestimates the core network, e.g. Bearman, P., and Parigi, P. <a href="http://scholar.google.com/scholar?cluster=12611378132484776549">Cloning Headless Frogs and Other Important Matters: Conversation Topics and Network Structure</a>. Social Forces 83 (2004), 535. [<a href="#identifier_4_660" class="footnote-link footnote-back-link">&#8617;</a>]</li><li id="footnote_5_660" class="footnote">Kossinets, G., and Watts, D. J. <a href="http://scholar.google.com/scholar?cluster=16116602005747966985">Empirical analysis of an evolving social network</a>. Science 311, 5757 (January 2006), 88â€“90. [<a href="#identifier_5_660" class="footnote-link footnote-back-link">&#8617;</a>]</li></ol><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-660" class="share-twitter sd-button share-icon no-text" href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-660" class="share-facebook sd-button share-icon no-text" href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook?share=facebook" target="_blank" title="Click to share on Facebook"><span></span><span class="sharing-screen-reader-text">Click to share on Facebook (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-660" class="share-google-plus-1 sd-button share-icon no-text" href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div>			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		This entry was posted in <a href="http://overstated.net/category/research" rel="category tag">Research</a> and tagged <a href="http://overstated.net/tag/facebook" rel="tag">Facebook</a>, <a href="http://overstated.net/tag/social-networks" rel="tag">social networks</a>. Bookmark the <a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook" title="Permalink to Maintained Relationships on Facebook" rel="bookmark">permalink</a>.
+			</footer><!-- .entry-meta -->
+</article><!-- #post-660 -->
+
+					<nav role="navigation" id="nav-below" class="site-navigation post-navigation">
+		<h1 class="assistive-text">Post navigation</h1>
+
+	
+		<div class="nav-previous"><a href="http://overstated.net/2009/02/28/reality-check-please" rel="prev"><span class="meta-nav">&larr;</span> Reality Check, Please</a></div>		<div class="nav-next"><a href="http://overstated.net/2009/07/29/cyborgs-and-offliners" rel="next">Cyborgs and offliners <span class="meta-nav">&rarr;</span></a></div>
+	
+	</nav><!-- #nav-below -->
+	
+				
+
+	<div id="comments" class="comments-area">
+
+	
+			<h2 class="comments-title">
+			127 thoughts on &ldquo;<span>Maintained Relationships on Facebook</span>&rdquo;		</h2>
+
+				<nav role="navigation" id="comment-nav-above" class="site-navigation comment-navigation">
+			<h1 class="assistive-text">Comment navigation</h1>
+			<div class="nav-previous"><a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-2#comments" >&larr; Older Comments</a></div>
+			<div class="nav-next"></div>
+		</nav><!-- #comment-nav-before .site-navigation .comment-navigation -->
+		
+		<ol class="commentlist">
+				<li class="post pingback">
+		<p>Pingback: <a href='http://vietyouthtodebate.wordpress.com/2011/08/04/motion-guide-facebook-va-s%e1%bb%b1-co-d%c6%a1n/' rel='external nofollow' class='url'>[Motion Guide] Facebook và sự cô đơn &laquo; Vietnam Y2D</a></p>
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-48793">
+		<article id="comment-48793" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://2.gravatar.com/avatar/2c4d1e0e67d5f835d76b7931e34960f1?s=40&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/2c4d1e0e67d5f835d76b7931e34960f1?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://snopes.dtdns.net' rel='external nofollow' class='url'>Garfield Majamay</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-48793"><time datetime="2011-08-29T03:06:59+00:00">
+					August 29, 2011 at 3:06 am					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p><a href="http://www.commandtheraven.com/?p=1759" rel="nofollow">http://www.commandtheraven.com/?p=1759</a>|1</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=48793#respond' onclick='return addComment.moveForm( "comment-48793", "48793", "respond", "660" )' aria-label='Reply to Garfield Majamay'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-48804">
+		<article id="comment-48804" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/fab2019221ec6dfa08f8edd47940ce52?s=40&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/fab2019221ec6dfa08f8edd47940ce52?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://www.outletwatches.info/' rel='external nofollow' class='url'>Winford Meloche</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-48804"><time datetime="2011-09-05T02:05:15+00:00">
+					September 5, 2011 at 2:05 am					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>Made from of your respective web site is kind of terrific. i will would take pride these tones very on my website.</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=48804#respond' onclick='return addComment.moveForm( "comment-48804", "48804", "respond", "660" )' aria-label='Reply to Winford Meloche'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-48810">
+		<article id="comment-48810" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://2.gravatar.com/avatar/2a390088347efd0aa17d0beaa6adbd1e?s=40&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/2a390088347efd0aa17d0beaa6adbd1e?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://www.blurty.com/talkpost.bml?journal=luckys070&#038;itemid=1463' rel='external nofollow' class='url'>Deshawn Sittig</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-48810"><time datetime="2011-09-07T16:35:11+00:00">
+					September 7, 2011 at 4:35 pm					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>why don&#8217;t we proceed as well as submit some more Regards toothpastes apply</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=48810#respond' onclick='return addComment.moveForm( "comment-48810", "48810", "respond", "660" )' aria-label='Reply to Deshawn Sittig'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-48819">
+		<article id="comment-48819" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/a1115024f5246946c484903fc5b18c09?s=40&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a1115024f5246946c484903fc5b18c09?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://www.ebuymarket.com' rel='external nofollow' class='url'>cecilmonroe38</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-48819"><time datetime="2011-09-10T01:56:24+00:00">
+					September 10, 2011 at 1:56 am					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>I love studying a post which will make people think. Furthermore, thank you for permitting me personally in order to remark!<br />
+I will always like you,don&#8217;t &#8230;&#8230;</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=48819#respond' onclick='return addComment.moveForm( "comment-48819", "48819", "respond", "660" )' aria-label='Reply to cecilmonroe38'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-48831">
+		<article id="comment-48831" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/1828c16d64063391c36d3cde309cf767?s=40&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/1828c16d64063391c36d3cde309cf767?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://www.baidu.com' rel='external nofollow' class='url'>sary</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-48831"><time datetime="2011-09-14T19:54:56+00:00">
+					September 14, 2011 at 7:54 pm					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>quite great information you write it incredibly clean. I&#8217;m extremely lucky to obtain this info from you</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=48831#respond' onclick='return addComment.moveForm( "comment-48831", "48831", "respond", "660" )' aria-label='Reply to sary'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-48866">
+		<article id="comment-48866" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://2.gravatar.com/avatar/29b9874ea35529e190bfa9c09e2a86eb?s=40&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/29b9874ea35529e190bfa9c09e2a86eb?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://TOMATEROJOCONTINUIDAD' rel='external nofollow' class='url'>ROLDAN</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-48866"><time datetime="2011-11-02T05:14:30+00:00">
+					November 2, 2011 at 5:14 am					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>SEE  ME</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=48866#respond' onclick='return addComment.moveForm( "comment-48866", "48866", "respond", "660" )' aria-label='Reply to ROLDAN'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-48916">
+		<article id="comment-48916" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/674b9b1a9017e7460ba5953182a4d92d?s=40&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/674b9b1a9017e7460ba5953182a4d92d?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn">John</cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-48916"><time datetime="2011-11-09T09:25:31+00:00">
+					November 9, 2011 at 9:25 am					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>There is a interesting discussion in Dipqa about Facebook and its evils check this out<br />
+<a href="http://dipqa.com/view/dips/27/where-facebook-heading-to-am-seeing-people-becoming/" rel="nofollow">http://dipqa.com/view/dips/27/where-facebook-heading-to-am-seeing-people-becoming/</a></p>
+<p>Thanks<br />
+John</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=48916#respond' onclick='return addComment.moveForm( "comment-48916", "48916", "respond", "660" )' aria-label='Reply to John'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-48989">
+		<article id="comment-48989" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/3d29f9fea1bca6bbc890b257e432d25a?s=40&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/3d29f9fea1bca6bbc890b257e432d25a?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://www.up2date.us/' rel='external nofollow' class='url'>uptodate</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-48989"><time datetime="2012-01-04T23:32:26+00:00">
+					January 4, 2012 at 11:32 pm					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>auto insurance quotes 8[ cheap car insurance lrxgn cheapest auto insurance 919 affordable health insurance 234</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=48989#respond' onclick='return addComment.moveForm( "comment-48989", "48989", "respond", "660" )' aria-label='Reply to uptodate'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="post pingback">
+		<p>Pingback: <a href='http://urbaniz.fr/2009/05/06/avons-nous-vrais-amis-sites-sociaux/' rel='external nofollow' class='url'>Avons-nous de “vrais amis” sur les sites sociaux ? | URBANIZ Informatique</a></p>
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-49031">
+		<article id="comment-49031" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://2.gravatar.com/avatar/8b688e800c458a69df74bdcfd607b92a?s=40&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/8b688e800c458a69df74bdcfd607b92a?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://kevinfadler.com' rel='external nofollow' class='url'>Kevin F. Adler</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-49031"><time datetime="2012-07-11T10:51:30+00:00">
+					July 11, 2012 at 10:51 am					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>Great stuff, guys. </p>
+<p>Now that the average Facebook user has 235 friends (nearly double what it was when you published this study!) any updates on this research? </p>
+<p>I&#8217;d love to know what percentage of our Facebook networks we access with any type of regularity (maintained relationships, mutual communication, and one-way communication). Thanks.</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=49031#respond' onclick='return addComment.moveForm( "comment-49031", "49031", "respond", "660" )' aria-label='Reply to Kevin F. Adler'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-49046">
+		<article id="comment-49046" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://2.gravatar.com/avatar/85facb2d7f614d8247f1a20f275b1654?s=40&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/85facb2d7f614d8247f1a20f275b1654?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://www.tenerifeairport.info/' rel='external nofollow' class='url'>Tenerife Airport</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-49046"><time datetime="2012-08-06T15:58:14+00:00">
+					August 6, 2012 at 3:58 pm					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>Fantastic goods from you, man. I have have in mind your stuff prior<br />
+to and you are simply extremely excellent. I really like what<br />
+you&#8217;ve obtained right here, really like what you are saying and the way in which you are saying it. You&#8217;re making it<br />
+entertaining and you still care for to stay it smart. I can not wait to learn far more from<br />
+you. That is actually a terrific web site.</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=49046#respond' onclick='return addComment.moveForm( "comment-49046", "49046", "respond", "660" )' aria-label='Reply to Tenerife Airport'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="post pingback">
+		<p>Pingback: <a href='http://y2d.edu.vn/motion-guide-facebook-va-s%e1%bb%b1-co-d%c6%a1n/' rel='external nofollow' class='url'>[Motion Guide] Facebook và sự cô đơn | Y2D</a></p>
+	</li><!-- #comment-## -->
+	<li class="post pingback">
+		<p>Pingback: <a href='http://urbaniz.leetblog.com/2009/05/06/avons-nous-vrais-amis-sites-sociaux/' rel='external nofollow' class='url'>Avons-nous de “vrais amis” sur les sites sociaux ? &laquo; Urbaniz</a></p>
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-49184">
+		<article id="comment-49184" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/de848014a9b12a7bd873727aba0a1774?s=40&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/de848014a9b12a7bd873727aba0a1774?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://www.youtube.com/watch?feature=player_embedded&#038;v=xGMuSNIaPiU' rel='external nofollow' class='url'>how to hack facebook accout</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-49184"><time datetime="2013-07-17T22:52:36+00:00">
+					July 17, 2013 at 10:52 pm					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>I constantly spent my half an hour to read this blog&#8217;s articles all the time along with a mug of coffee.</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=49184#respond' onclick='return addComment.moveForm( "comment-49184", "49184", "respond", "660" )' aria-label='Reply to how to hack facebook accout'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-49187">
+		<article id="comment-49187" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/4b362d47cf4576846f5421793d8d45c5?s=40&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/4b362d47cf4576846f5421793d8d45c5?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://www.hockeymusic.ca/forum/member.php?u=21057' rel='external nofollow' class='url'>Thorsten</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-49187"><time datetime="2013-07-19T04:37:39+00:00">
+					July 19, 2013 at 4:37 am					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>Someone necessarily lend a hand to make seriously posts<br />
+I might state. That is the first time I frequented your web page and<br />
+thus far? I amazed with the analysis you made to make this actual put up extraordinary.</p>
+<p>Magnificent task!</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=49187#respond' onclick='return addComment.moveForm( "comment-49187", "49187", "respond", "660" )' aria-label='Reply to Thorsten'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-49254">
+		<article id="comment-49254" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://2.gravatar.com/avatar/bfb68800349361b86c0dcce7ee8d7691?s=40&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/bfb68800349361b86c0dcce7ee8d7691?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://youtube-page-designer.gallerya.net' rel='external nofollow' class='url'>buy youtube views</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-49254"><time datetime="2013-11-04T09:24:56+00:00">
+					November 4, 2013 at 9:24 am					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>Hi there colleagues, how is everything, and what you desire to say about this article, in my view<br />
+its in fact awesome in support of me.</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=49254#respond' onclick='return addComment.moveForm( "comment-49254", "49254", "respond", "660" )' aria-label='Reply to buy youtube views'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-49256">
+		<article id="comment-49256" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/4689fc8f27f2ceff38b3530956fb890f?s=40&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/4689fc8f27f2ceff38b3530956fb890f?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://cncb.in/bottega-veneta/vintage-bottega-veneta-bags.html' rel='external nofollow' class='url'>http://cncb.in/bottega-veneta/vintage-bottega-veneta-bags.html</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-49256"><time datetime="2013-11-06T14:07:58+00:00">
+					November 6, 2013 at 2:07 pm					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>my friend, this is a great article.</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=49256#respond' onclick='return addComment.moveForm( "comment-49256", "49256", "respond", "660" )' aria-label='Reply to http://cncb.in/bottega-veneta/vintage-bottega-veneta-bags.html'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-49257">
+		<article id="comment-49257" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/4689fc8f27f2ceff38b3530956fb890f?s=40&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/4689fc8f27f2ceff38b3530956fb890f?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://orchardinfraland.in/mulberry/mulberry-york-outlet-store.html' rel='external nofollow' class='url'>http://orchardinfraland.in/mulberry/mulberry-york-outlet-store.html</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-49257"><time datetime="2013-11-06T14:09:37+00:00">
+					November 6, 2013 at 2:09 pm					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>hello, there is a great article.</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=49257#respond' onclick='return addComment.moveForm( "comment-49257", "49257", "respond", "660" )' aria-label='Reply to http://orchardinfraland.in/mulberry/mulberry-york-outlet-store.html'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-49258">
+		<article id="comment-49258" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/4689fc8f27f2ceff38b3530956fb890f?s=40&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/4689fc8f27f2ceff38b3530956fb890f?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://webguru.nstechcomputers.com/moncler/cheap-moncler-hats.html' rel='external nofollow' class='url'>http://webguru.nstechcomputers.com/moncler/cheap-moncler-hats.html</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-49258"><time datetime="2013-11-06T14:11:33+00:00">
+					November 6, 2013 at 2:11 pm					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>hello, there are a nice article.</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=49258#respond' onclick='return addComment.moveForm( "comment-49258", "49258", "respond", "660" )' aria-label='Reply to http://webguru.nstechcomputers.com/moncler/cheap-moncler-hats.html'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-49259">
+		<article id="comment-49259" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/4689fc8f27f2ceff38b3530956fb890f?s=40&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/4689fc8f27f2ceff38b3530956fb890f?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://theblueribbon.co/michael-kors/michael-kors-coupon-outlet.html' rel='external nofollow' class='url'>http://theblueribbon.co/michael-kors/michael-kors-coupon-outlet.html</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-49259"><time datetime="2013-11-06T14:16:30+00:00">
+					November 6, 2013 at 2:16 pm					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>my friend, there are a great article.</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=49259#respond' onclick='return addComment.moveForm( "comment-49259", "49259", "respond", "660" )' aria-label='Reply to http://theblueribbon.co/michael-kors/michael-kors-coupon-outlet.html'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-49260">
+		<article id="comment-49260" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/9bfba564228efe7b9dabd9bdc030d28f?s=40&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/9bfba564228efe7b9dabd9bdc030d28f?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://www.stgeorge.org.mt/images/christian-louboutin-outlet.html' rel='external nofollow' class='url'>http://www.stgeorge.org.mt/images/christian-louboutin-outlet.html</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-49260"><time datetime="2013-11-12T08:07:32+00:00">
+					November 12, 2013 at 8:07 am					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>hello, this is a good article.</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=49260#respond' onclick='return addComment.moveForm( "comment-49260", "49260", "respond", "660" )' aria-label='Reply to http://www.stgeorge.org.mt/images/christian-louboutin-outlet.html'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-49261">
+		<article id="comment-49261" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/9bfba564228efe7b9dabd9bdc030d28f?s=40&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/9bfba564228efe7b9dabd9bdc030d28f?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://www.iranestatitra.com/images/michael-kors-handbags-outlet.html' rel='external nofollow' class='url'>http://www.iranestatitra.com/images/michael-kors-handbags-outlet.html</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-49261"><time datetime="2013-11-12T08:10:04+00:00">
+					November 12, 2013 at 8:10 am					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>hello, there is a good post.</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=49261#respond' onclick='return addComment.moveForm( "comment-49261", "49261", "respond", "660" )' aria-label='Reply to http://www.iranestatitra.com/images/michael-kors-handbags-outlet.html'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-49262">
+		<article id="comment-49262" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/9bfba564228efe7b9dabd9bdc030d28f?s=40&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/9bfba564228efe7b9dabd9bdc030d28f?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://qebchaq.com/Image/uggs-on-sale.html' rel='external nofollow' class='url'>http://qebchaq.com/Image/uggs-on-sale.html</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-49262"><time datetime="2013-11-12T08:10:47+00:00">
+					November 12, 2013 at 8:10 am					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>my friend, this are an ok post.</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=49262#respond' onclick='return addComment.moveForm( "comment-49262", "49262", "respond", "660" )' aria-label='Reply to http://qebchaq.com/Image/uggs-on-sale.html'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-49263">
+		<article id="comment-49263" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://0.gravatar.com/avatar/9bfba564228efe7b9dabd9bdc030d28f?s=40&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/9bfba564228efe7b9dabd9bdc030d28f?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://www.bamelite.com/images/louboutin-outlet-uk.html' rel='external nofollow' class='url'>http://www.bamelite.com/images/louboutin-outlet-uk.html</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-49263"><time datetime="2013-11-12T08:11:30+00:00">
+					November 12, 2013 at 8:11 am					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>hello, there is a nice article.</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=49263#respond' onclick='return addComment.moveForm( "comment-49263", "49263", "respond", "660" )' aria-label='Reply to http://www.bamelite.com/images/louboutin-outlet-uk.html'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-49301">
+		<article id="comment-49301" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<img alt='' src='http://1.gravatar.com/avatar/a10dce158025cc0b8a93f86963d9f2c4?s=40&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a10dce158025cc0b8a93f86963d9f2c4?s=80&amp;d=mm&amp;r=g 2x' class='avatar avatar-40 photo' height='40' width='40' />					<cite class="fn"><a href='http://www.youtube.com/watch?v=ClOdZowpYx8' rel='external nofollow' class='url'>youtube.com</a></cite> <span class="says">says:</span>				</div><!-- .comment-author .vcard -->
+				
+				<div class="comment-meta commentmetadata">
+					<a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-3#comment-49301"><time datetime="2014-01-05T00:06:53+00:00">
+					January 5, 2014 at 12:06 am					</time></a>
+									</div><!-- .comment-meta .commentmetadata -->
+
+				<div style="clear:both;"></div>
+			</footer>
+
+			<div class="comment-content"><p>Everything is very open with a very clear clarification<br />
+of the issues. It was definitely informative. Your site is very useful.</p>
+<p>Thank you for sharing!</p>
+</div>
+
+			<div class="reply">
+				<a rel='nofollow' class='comment-reply-link' href='http://overstated.net/2009/03/09/maintained-relationships-on-facebook?replytocom=49301#respond' onclick='return addComment.moveForm( "comment-49301", "49301", "respond", "660" )' aria-label='Reply to youtube.com'>Reply</a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="post pingback">
+		<p>Pingback: <a href='http://timswww.wordpress.com/2014/02/21/msc-web-science-week-21/' rel='external nofollow' class='url'>MSc Web Science &#8211; Week 21 | Tim&#039;s World of Web</a></p>
+	</li><!-- #comment-## -->
+		</ol><!-- .commentlist -->
+
+				<nav role="navigation" id="comment-nav-below" class="site-navigation comment-navigation">
+			<h1 class="assistive-text">Comment navigation</h1>
+			<div class="nav-previous"><a href="http://overstated.net/2009/03/09/maintained-relationships-on-facebook/comment-page-2#comments" >&larr; Older Comments</a></div>
+			<div class="nav-next"></div>
+		</nav><!-- #comment-nav-below .site-navigation .comment-navigation -->
+		
+	
+	
+			
+		<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2009/03/09/maintained-relationships-on-facebook#respond" style="display:none;">Cancel reply</a></small></h3>
+			<form id="commentform" class="comment-form">
+				<iframe src="https://jetpack.wordpress.com/jetpack-comment/?blogid=53632670&#038;postid=660&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Leave+a+Reply&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en-US&#038;jetpack_version=4.0.3&#038;sig=44bdb7e96e907c698c676b0b934fc27d2ca0955e#parent=http%3A%2F%2Foverstated.net%2F2009%2F03%2F09%2Fmaintained-relationships-on-facebook" allowtransparency="false" style="width:100%; height: 430px;border:0;" frameBorder="0" scrolling="no" name="jetpack_remote_comment" id="jetpack_remote_comment"></iframe>
+			</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+		
+</div><!-- #comments .comments-area -->
+
+			
+			</div><!-- #content .site-content -->
+		</div><!-- #primary .content-area -->
+
+		<div id="secondary" class="widget-area" role="complementary">
+						<aside id="archives-3" class="widget widget_archive"><h1 class="widget-title">Archives</h1>		<ul>
+			<li><a href='http://overstated.net/2010/11'>November 2010</a></li>
+	<li><a href='http://overstated.net/2010/01'>January 2010</a></li>
+	<li><a href='http://overstated.net/2009/12'>December 2009</a></li>
+	<li><a href='http://overstated.net/2009/11'>November 2009</a></li>
+	<li><a href='http://overstated.net/2009/10'>October 2009</a></li>
+	<li><a href='http://overstated.net/2009/09'>September 2009</a></li>
+	<li><a href='http://overstated.net/2009/07'>July 2009</a></li>
+	<li><a href='http://overstated.net/2009/03'>March 2009</a></li>
+	<li><a href='http://overstated.net/2009/02'>February 2009</a></li>
+	<li><a href='http://overstated.net/2009/01'>January 2009</a></li>
+	<li><a href='http://overstated.net/2008/12'>December 2008</a></li>
+	<li><a href='http://overstated.net/2008/09'>September 2008</a></li>
+	<li><a href='http://overstated.net/2008/07'>July 2008</a></li>
+	<li><a href='http://overstated.net/2008/06'>June 2008</a></li>
+	<li><a href='http://overstated.net/2008/05'>May 2008</a></li>
+	<li><a href='http://overstated.net/2008/03'>March 2008</a></li>
+	<li><a href='http://overstated.net/2008/02'>February 2008</a></li>
+	<li><a href='http://overstated.net/2008/01'>January 2008</a></li>
+	<li><a href='http://overstated.net/2007/07'>July 2007</a></li>
+	<li><a href='http://overstated.net/2007/06'>June 2007</a></li>
+	<li><a href='http://overstated.net/2007/05'>May 2007</a></li>
+	<li><a href='http://overstated.net/2007/04'>April 2007</a></li>
+	<li><a href='http://overstated.net/2007/02'>February 2007</a></li>
+	<li><a href='http://overstated.net/2007/01'>January 2007</a></li>
+	<li><a href='http://overstated.net/2006/12'>December 2006</a></li>
+	<li><a href='http://overstated.net/2006/11'>November 2006</a></li>
+	<li><a href='http://overstated.net/2006/10'>October 2006</a></li>
+	<li><a href='http://overstated.net/2006/09'>September 2006</a></li>
+	<li><a href='http://overstated.net/2006/08'>August 2006</a></li>
+	<li><a href='http://overstated.net/2006/06'>June 2006</a></li>
+	<li><a href='http://overstated.net/2006/05'>May 2006</a></li>
+	<li><a href='http://overstated.net/2006/01'>January 2006</a></li>
+	<li><a href='http://overstated.net/2005/11'>November 2005</a></li>
+	<li><a href='http://overstated.net/2005/10'>October 2005</a></li>
+	<li><a href='http://overstated.net/2005/09'>September 2005</a></li>
+	<li><a href='http://overstated.net/2005/08'>August 2005</a></li>
+	<li><a href='http://overstated.net/2005/07'>July 2005</a></li>
+	<li><a href='http://overstated.net/2005/06'>June 2005</a></li>
+	<li><a href='http://overstated.net/2005/05'>May 2005</a></li>
+	<li><a href='http://overstated.net/2005/04'>April 2005</a></li>
+	<li><a href='http://overstated.net/2005/03'>March 2005</a></li>
+	<li><a href='http://overstated.net/2005/02'>February 2005</a></li>
+	<li><a href='http://overstated.net/2005/01'>January 2005</a></li>
+	<li><a href='http://overstated.net/2004/12'>December 2004</a></li>
+	<li><a href='http://overstated.net/2004/10'>October 2004</a></li>
+	<li><a href='http://overstated.net/2004/09'>September 2004</a></li>
+	<li><a href='http://overstated.net/2004/08'>August 2004</a></li>
+	<li><a href='http://overstated.net/2004/07'>July 2004</a></li>
+	<li><a href='http://overstated.net/2004/06'>June 2004</a></li>
+	<li><a href='http://overstated.net/2004/05'>May 2004</a></li>
+	<li><a href='http://overstated.net/2004/04'>April 2004</a></li>
+	<li><a href='http://overstated.net/2004/03'>March 2004</a></li>
+	<li><a href='http://overstated.net/2004/02'>February 2004</a></li>
+	<li><a href='http://overstated.net/2004/01'>January 2004</a></li>
+	<li><a href='http://overstated.net/2003/12'>December 2003</a></li>
+	<li><a href='http://overstated.net/2003/11'>November 2003</a></li>
+	<li><a href='http://overstated.net/2003/10'>October 2003</a></li>
+	<li><a href='http://overstated.net/2003/09'>September 2003</a></li>
+	<li><a href='http://overstated.net/2003/08'>August 2003</a></li>
+	<li><a href='http://overstated.net/2003/07'>July 2003</a></li>
+	<li><a href='http://overstated.net/2003/06'>June 2003</a></li>
+	<li><a href='http://overstated.net/2003/05'>May 2003</a></li>
+	<li><a href='http://overstated.net/2003/04'>April 2003</a></li>
+	<li><a href='http://overstated.net/2003/03'>March 2003</a></li>
+	<li><a href='http://overstated.net/2003/02'>February 2003</a></li>
+	<li><a href='http://overstated.net/2003/01'>January 2003</a></li>
+	<li><a href='http://overstated.net/2002/12'>December 2002</a></li>
+	<li><a href='http://overstated.net/2002/11'>November 2002</a></li>
+	<li><a href='http://overstated.net/2002/10'>October 2002</a></li>
+	<li><a href='http://overstated.net/2002/09'>September 2002</a></li>
+	<li><a href='http://overstated.net/2002/08'>August 2002</a></li>
+	<li><a href='http://overstated.net/2002/07'>July 2002</a></li>
+	<li><a href='http://overstated.net/2002/06'>June 2002</a></li>
+	<li><a href='http://overstated.net/2002/05'>May 2002</a></li>
+	<li><a href='http://overstated.net/2002/04'>April 2002</a></li>
+	<li><a href='http://overstated.net/2002/03'>March 2002</a></li>
+	<li><a href='http://overstated.net/2002/02'>February 2002</a></li>
+	<li><a href='http://overstated.net/2002/01'>January 2002</a></li>
+		</ul>
+		</aside><aside id="nav_menu-3" class="widget widget_nav_menu"><h1 class="widget-title">Categories</h1><div class="menu-categories-container"><ul id="menu-categories" class="menu"><li id="menu-item-856" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-856"><a href="http://overstated.net/category/research">Research</a></li>
+<li id="menu-item-857" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-857"><a href="http://overstated.net/category/music">Music</a></li>
+<li id="menu-item-885" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-885"><a href="http://overstated.net/category/technology">Technology</a></li>
+<li id="menu-item-886" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-886"><a href="http://overstated.net/category/food">Food</a></li>
+</ul></div></aside>		</div><!-- #secondary .widget-area -->
+
+	</div><!-- #main .site-main -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+						<a href="http://wordpress.org/" title="A Semantic Personal Publishing Platform" rel="generator">running on WordPress</a>
+			<span class="sep"> | </span>
+			Theme: Mog by <a href="http://hndr.me/" rel="designer">hndr</a>.			<span class="sep"> | </span>
+			Other Projects: <a href="http://physera.com">Physera</a>, <a href="http://healthcoda.com">Health Coda</a>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon .site-footer -->
+</div><!-- #page .hfeed .site -->
+
+	<div style="display:none">
+	<div class="grofile-hash-map-99d9f4f64060d3ab90cace1f3b4994f3">
+	</div>
+	<div class="grofile-hash-map-1f2f2cb4cec5513f4d037c14ae85a899">
+	</div>
+	<div class="grofile-hash-map-e453bf8e23c960886e329114fb9409fd">
+	</div>
+	<div class="grofile-hash-map-a1115024f5246946c484903fc5b18c09">
+	</div>
+	<div class="grofile-hash-map-c1e9d0f57945095ba14c3169dbf8ae80">
+	</div>
+	<div class="grofile-hash-map-29b9874ea35529e190bfa9c09e2a86eb">
+	</div>
+	<div class="grofile-hash-map-674b9b1a9017e7460ba5953182a4d92d">
+	</div>
+	<div class="grofile-hash-map-7f414990961e76c6772e5f189ea63177">
+	</div>
+	<div class="grofile-hash-map-0951c943c20a1e32544e3991a25efa00">
+	</div>
+	<div class="grofile-hash-map-85facb2d7f614d8247f1a20f275b1654">
+	</div>
+	<div class="grofile-hash-map-de848014a9b12a7bd873727aba0a1774">
+	</div>
+	<div class="grofile-hash-map-4b362d47cf4576846f5421793d8d45c5">
+	</div>
+	<div class="grofile-hash-map-bfb68800349361b86c0dcce7ee8d7691">
+	</div>
+	<div class="grofile-hash-map-4689fc8f27f2ceff38b3530956fb890f">
+	</div>
+	<div class="grofile-hash-map-9bfba564228efe7b9dabd9bdc030d28f">
+	</div>
+	<div class="grofile-hash-map-a10dce158025cc0b8a93f86963d9f2c4">
+	</div>
+	</div>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/overstated.net\/2009\/03\/09\/maintained-relationships-on-facebook":660};
+	</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript' src='http://overstated.net/wp/wp-content/plugins/akismet/_inc/form.js?ver=3.1.10'></script>
+<script type='text/javascript' src='http://overstated.net/wp/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201626'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2016Junaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://overstated.net/wp/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://overstated.net/wp/wp-content/themes/mog/js/small-menu.js?ver=20120206'></script>
+<script type='text/javascript' src='http://overstated.net/wp/wp-includes/js/comment-reply.min.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://overstated.net/wp/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://overstated.net/wp/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=4.0.3'></script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+		if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+			// window.location.reload() doesn't respect the Hash in IE
+			window.location.hash = window.location.hash;
+		}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			var comm_par_el = document.getElementById( 'comment_parent' ),
+			    comm_par = (comm_par_el && comm_par_el.value) ? comm_par_el.value : '',
+			    frame = document.getElementById( 'jetpack_remote_comment' ),
+			    tellFrameNewParent;
+
+			tellFrameNewParent = function() {
+				if ( comm_par ) {
+					frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=53632670&postid=660&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=4.0.3&sig=44bdb7e96e907c698c676b0b934fc27d2ca0955e#parent=http%3A%2F%2Foverstated.net%2F2009%2F03%2F09%2Fmaintained-relationships-on-facebook" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+				} else {
+					frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=53632670&postid=660&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=4.0.3&sig=44bdb7e96e907c698c676b0b934fc27d2ca0955e#parent=http%3A%2F%2Foverstated.net%2F2009%2F03%2F09%2Fmaintained-relationships-on-facebook";
+				}
+			};
+
+	
+			if ( 'undefined' !== typeof addComment ) {
+				addComment._Jetpack_moveForm = addComment.moveForm;
+
+				addComment.moveForm = function( commId, parentId, respondId, postId ) {
+					var returnValue = addComment._Jetpack_moveForm( commId, parentId, respondId, postId ), cancelClick, cancel;
+
+					if ( false === returnValue ) {
+						cancel = document.getElementById( 'cancel-comment-reply-link' );
+						cancelClick = cancel.onclick;
+						cancel.onclick = function() {
+							var cancelReturn = cancelClick.call( this );
+							if ( false !== cancelReturn ) {
+								return cancelReturn;
+							}
+
+							if ( !comm_par ) {
+								return cancelReturn;
+							}
+
+							comm_par = 0;
+
+							tellFrameNewParent();
+
+							return cancelReturn;
+						};
+					}
+
+					if ( comm_par == parentId ) {
+						return returnValue;
+					}
+
+					comm_par = parentId;
+
+					tellFrameNewParent();
+
+					return returnValue;
+				};
+			}
+
+	
+			if ( window.postMessage ) {
+				if ( document.addEventListener ) {
+					window.addEventListener( 'message', function( event ) {
+						if ( "https:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				} else if ( document.attachEvent ) {
+					window.attachEvent( 'message', function( event ) {
+						if ( "https:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				}
+			}
+		</script>
+
+	<script type='text/javascript' src='http://stats.wp.com/e-201626.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.0.3',blog:'53632670',post:'660',tz:'-8',srv:'overstated.net'} ]);
+	_stq.push([ 'clickTrackerInit', '53632670', '660' ]);
+</script>
+
+</body>
+</html>
